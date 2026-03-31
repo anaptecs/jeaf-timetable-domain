@@ -105,7 +105,6 @@
 			<type>zip</type>
 			<scope>provided</scope>
 		</dependency>
-
 		<dependency>
 			<groupId>com.anaptecs.jeaf.timetable</groupId>
 			<artifactId>jeaf-timetable-service-model</artifactId>
